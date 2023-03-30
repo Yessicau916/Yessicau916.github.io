@@ -1,0 +1,87 @@
+html{background-color: rgb(2, 2, 2);}
+body{
+    margin: 10px;
+    color: rgb(212, 183, 240); font-size: 20px ; text-align:left ; 
+}
+
+.conspi{font-weight: bold;}
+#conspi{float:top; text-align:left; margin-bottom: 20px;padding: 15px;list-style: none;
+     background-color: rgb(44, 43, 43);margin-top: 10px; margin-left: 101px; margin-right: 50px;}
+#conspi ul{display: inline-block; margin: 20px 40px ;}
+#conspi ul{ display:block ; padding: 1px 10px;text-decoration:none;color: beige ; }
+#conspi ul a:hover{color: rgb(255, 255, 255); text-align:end  }
+
+
+.izq{font-weight: bold  ;}
+#izq{float:top; text-align: left; margin-bottom: 20px;padding: 15px; list-style:none;
+background-color: rgb(0, 0, 0); margin-top: -500px ; margin-left:500px; margin-right: 10px; }
+#izq ul{display: inline-block; margin: 0px 40px ;}
+#izq ul{ display:block ; padding: 1px 10px;text-decoration:none;color: beige ; }
+#izq ul a:hover{color: rgb(43, 11, 158);  }
+#iqzimg{position:relative;right: -5px;; top: -700px;  }
+#izqimg{ position:relative ;top:-740px ;right:510px;  }
+
+.der{font-weight: bold  ;}
+#der{float:top; text-align: left; margin-bottom: 20px;padding: 15px; list-style:none;
+background-color: rgb(0, 0, 0); margin-top: 50px ; margin-left:10px; margin-right: 500px; }
+#der ul{display: inline-block; margin: 0px 40px ;}
+#der ul{ display:block ; padding: 1px 10px;text-decoration:none;color: beige ; }
+#der ul a:hover{color: rgb(224, 104, 104);  }
+#dereimg{position:relative;right: -5px;; top: -700px;  }
+#dereimg{ position:relative ;height:300px;; top:-540px ; right: -810px; }
+
+.dermk{font-weight: bold  ;}
+#dermk{float:top; text-align: left;margin-bottom: 20px;padding: 15px;list-style:none ;
+background-color: rgb(0, 0, 0) ;margin-top:-590px ;margin-left:-10px ;margin-right:500px;}
+#dermk ul{ display:block ; padding: 1px 10px;text-decoration:none;color: beige ; }
+#dermk ul a:hover{color: rgb(224, 104, 104);}
+#mkimg{position:relative;right: -800px;; top: -600px;  }
+#dmkimg{ position:relative ;height:300px;; top:-540px ; right: -810px; }
+
+.izblo{font-weight: bold  ;}
+#izqblo{float:top; text-align: left; margin-bottom: 20px;padding: 15px; list-style:none;
+background-color: rgb(0, 0, 0); margin-top: -500px ; margin-left:500px; margin-right: 10px; }
+#izqblo ul{display: inline-block; margin: 0px 40px ;}
+#izqblo ul{ display:block ; padding: 1px 10px;text-decoration:none;color: beige ; }
+#izqblo ul a:hover{color: rgb(224, 104, 104);  }
+#bloimg{position:relative;right: -5px;; top: -700px;   }
+#bloimg{ position:relative ;top:-650px ;right:510px;  }
+
+.deref{font-weight: bold  ;}
+#deref{float:top; text-align: left;margin-bottom: 20px;padding: 15px;list-style:none ;
+background-color: rgb(0, 0, 0) ;margin-top:-590px ;margin-left:-10px ;margin-right:500px;}
+#deref ul{ display:block ; padding: 1px 10px;text-decoration:none;color: beige ; }
+#deref ul a:hover{color: rgb(224, 104, 104);  }
+#efimg{position:relative;right: -800px;; top: -600px;  }
+#efimg{ position:relative ;height:300px;; top:-780px ; right: -810px; }
+
+
+/* cajamala*/
+.cajamadre{
+    background-color: rgb(250, 235, 215);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.Caja1{
+    display: flex;
+    flex-direction:column;
+    width: 80%;
+    height: auto;
+    background-color: brown;
+}
+.Caja2{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 100px;
+    background-color: blue;
+
+}
+
+.Caja2 img{
+    width: 500px;
+
+}

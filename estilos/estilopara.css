@@ -1,0 +1,11 @@
+html{background-color: rgb(2, 2, 2);}
+body{
+    margin: 10px;
+    color: rgb(212, 183, 240); font-size: 20px ; text-align:left ; 
+}
+.para{font-weight: bold;}
+#para{float:top; text-align:left; margin-bottom: 20px;padding: 15px;list-style: none;
+     background-color: rgb(44, 43, 43);margin-top: 10px; margin-left: 101px; margin-right: 50px;}
+#para nav{display: inline-block; margin: 0px 400px ;}
+#para nav{ display:block ; padding: 1px 10px;text-decoration:none;color: beige ; }
+#para nav a:hover{color: rgb(255, 255, 255);; }

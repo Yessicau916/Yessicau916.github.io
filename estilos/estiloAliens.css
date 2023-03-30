@@ -1,0 +1,53 @@
+html{background-color: rgb(2, 2, 2);}
+body{
+    margin: 10px;
+    color: rgb(212, 183, 240); font-size: 20px ; text-align:left ; 
+}
+
+.ali{font-weight: bold;}
+#ali{float:top; text-align:left; margin-bottom: 20px;padding: 15px;list-style: none;
+     background-color: rgb(44, 43, 43);margin-top: 10px; margin-left: 101px; margin-right: 50px;}
+#ali li{display: inline-block; margin: 0px 400px ;}
+#ali li{ display:block ; padding: 1px 10px;text-decoration:none;color: beige ; }
+#ali li a:hover{color: rgb(255, 255, 255);  }
+#img{float:top; text-align:center ; margin-bottom: 1px; padding:0;    margin-top: 10px; }
+#img li { margin: 0px 0px; }
+#img li a {display: block; padding: 1px 3px;}
+ 
+#bloquegris{ height: 1350px;width: 1200px; }
+#imgris {position:relative ;right:-720px ;  ;top :-1350px ; }
+
+.gris{font-weight: bold  ;}
+#gris{float:top; text-align: left; margin-bottom: 20px;padding: 15px; list-style:none;
+background-color: rgb(0, 0, 0); margin-top: 50px ; margin-left:10px; margin-right: 500px; }
+#gris li{display: inline-block; margin: 0px 40px ;}
+#gris li{ display:block ; padding: 1px 10px;text-decoration:none;color: beige ; }
+#gris li a:hover{color: rgb(224, 104, 104);  }
+
+#bloquever{ height: 750px;width: 1200px; }
+#imgver{position:relative;right: -5px;; top: -700px;  }
+#imgver2{ position:relative ;height:300px;; top:-380px ; right: 510px; }
+.ver{font-weight: bold  ;}
+#ver{float:top; text-align: left; margin-bottom: 20px;padding: 15px; list-style:none;
+background-color: rgb(0, 0, 0); margin-top: 50px ; margin-left:500px; margin-right: 10px; }
+#ver li{display: inline-block; margin: 0px 40px ;}
+#ver li{ display:block ; padding: 1px 10px;text-decoration:none;color: beige ; }
+#ver li a:hover{color: rgb(224, 104, 104);  }
+
+#bloquerep{height: 1100px; }
+#imgrep{position:relative ;right:-790px  ;top :-1060px ;}
+.rep{font-weight: bold  ;}
+#rep{float:top; text-align: left; margin-bottom: 20px;padding: 15px; list-style:none;
+background-color: rgb(0, 0, 0); margin-top: 50px ; margin-left:10px; margin-right: 500px; }
+#rep li{display: inline-block; margin: 0px 40px ;}
+#rep li{ display:block ; padding: 1px 10px;text-decoration:none;color: beige ; }
+#rep li a:hover{color: rgb(224, 104, 104);  }
+
+
+#imgnin {margin-bottom: 1px;  margin-top: 10px; height: 500px;;}
+.nin{font-weight: bold;}
+#nin{float:top; text-align:left; margin-bottom: 20px;padding: 15px;list-style: none;
+     background-color: rgb(44, 43, 43);margin-top: 10px; margin-left: 101px; margin-right: 50px;}
+#nin li{display: inline-block; margin: 0px 300px ;}
+#nin li{ display:block ; padding: 1px 10px;text-decoration:none;color: beige ; }
+#nin li a:hover{color: rgb(224, 104, 104);  }

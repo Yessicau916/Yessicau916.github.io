@@ -1,0 +1,50 @@
+html{background-color: rgb(2, 2, 2);}
+
+#inf{font: size 20px;  font-weight:bold ;}
+#inf{float:top;text-align: left;margin-bottom: 20px;padding: px; background-color: rgb(0, 0, 0);margin-top: 10px;margin-right: 300px;margin-left: 100px;list-style: none; }
+#inf li a{display: block;padding:2px 70px ;text-decoration:none ;color: rgb(196, 159, 202); }
+#inf li a:hover{color: rgb(241, 239, 241); }
+
+#sus{font-size: 30px; font-weight: bold;}
+#sus{float:right;text-align:right ;margin-bottom:auto ;padding:10px;list-style: none;
+background-color: azure;border-radius: 30px;margin-top: 20px;margin-right: 30px;}
+#sus li{display:inline-block ;margin: 0px 0px ;}
+#sus li a{display:block;padding: 5px 30px;text-decoration: none;color: rgb(223, 24, 34); border-radius: 30px;}
+#sus li a:hover{color: azure;background-color: rgb(255, 0, 13);}
+
+.menu{font-weight: bold; font-family:'Times New Roman', Times, serif;}
+#menu{float:top; text-align:right ; margin-bottom: -315px; padding:0; list-style: none;
+      background-image:url(/recursos/fondo.png); margin-top: 260px; }
+#menu li {display: inline-block; margin:0px 0px; }
+#menu li a{display: block; padding: 20px 20px; text-decoration:none; color: rgb(255, 255, 255);}
+#menu li a:hover{color: rgb(5, 5, 5) ;background-color: rgb(255, 255, 255)  ;}
+
+#imgpa{ text-align:left;margin-left:150px ;margin-top: 180px; }
+#titulopa{float: top;margin: right 70px; margin-top: -0px ;}
+
+
+#imgco{float: right;text-align: right;margin-right: 150px ;margin-top: -300px;}
+#tituloco{float:top ;text-align: center;margin-right: -20px;margin-top:-250px ;}
+
+#imgali{float: left;text-align: center ;margin-left: 570px;margin-top: -300px;}
+#tituloali{float:top;text-align: center;margin-left:-30px ;margin-top:-300px ;}
+
+body{
+    margin: 10px;
+    color: rgb(212, 183, 240); font-size: 20px ; text-align:left ; 
+}
+a{color: rgb(147, 0, 177);}
+
+.titulo{
+    padding: 5px;
+    height: 15px;
+    width: 300px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(3, 3, 3);
+    border: 15px outset rgb(233, 162, 227) 
+}
+
+.centro{display: flex; justify-content: center ;align-items:center;}
+.video{display: inline-block;position: relative;margin: 100px 50px;right: 100px;}
+.nombre{display: flex;justify-content: center;color: blueviolet; font-size: 30px;text-decoration: none; }
+

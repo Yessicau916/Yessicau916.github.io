@@ -1,0 +1,12 @@
+html{background-color: rgb(2, 2, 2);}
+body{
+    margin: 10px;
+    color: rgb(212, 183, 240); font-size: 20px ; text-align:left ; }
+    .menu{font-weight: bold; font-family:'Times New Roman', Times, serif;}
+#menu{float:top; text-align:center; padding:0; list-style: none;
+      background-image:url(/recursos/fondo.png);}
+#menu li {display: inline-block; margin:0px 0px; }
+#menu li a{display: block; padding: 20px 20px; text-decoration:none; color: rgb(255, 255, 255);}
+#menu li a:hover{color: rgb(5, 5, 5) ;background-color: rgb(255, 255, 255)  ;}
+.videospara{display: flex;}
+.centro{display: flex; align-items: center; font-size: x-large;}
